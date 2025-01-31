@@ -1,0 +1,21 @@
+[submodule "Programming-Methodology"]
+	path = Programming-Methodology
+	url = https://github.com/WvnianiXinkali/Programming-Methodology.git
+[submodule "Programming-Abstractions"]
+	path = Programming-Abstractions
+	url = https://github.com/WvnianiXinkali/Programming-Abstractions.git
+[submodule "Programming-Paradigms"]
+	path = Programming-Paradigms
+	url = https://github.com/WvnianiXinkali/Programming-Paradigms.git
+[submodule "OOP"]
+	path = OOP
+	url = https://github.com/WvnianiXinkali/OOP.git
+[submodule "Computer-Architecture"]
+	path = Computer-Architecture
+	url = https://github.com/WvnianiXinkali/Computer-Architecture.git
+[submodule "Oracle-Database"]
+	path = Oracle-Database
+	url = https://github.com/WvnianiXinkali/Oracle-Database.git
+[submodule "Nand2Tetris"]
+	path = Nand2Tetris
+	url = https://github.com/WvnianiXinkali/Nand2Tetris.git
